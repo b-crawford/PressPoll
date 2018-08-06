@@ -1,0 +1,3 @@
+Paper, Main, Links1, Links2, Headline1, Headline2
+Guardian, "https://www.theguardian.com/", .js-headline-text, None, .content__headline, None
+Telegraph, "https://www.telegraph.co.uk", .list-of-entities__item-body-headline a, None, .headline__heading, None
